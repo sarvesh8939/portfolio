@@ -1,0 +1,66 @@
+* {
+  margin: 0px;
+}
+.topbar {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(134, 174, 123);
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+}
+.navbar h3 a{
+  color: black;
+  border: none;
+  text-decoration: none;
+}
+:hover.ab  a{
+  color: white;
+}
+:hover.cm a{
+  color: white;
+}
+.name {
+  margin-left: 10px;
+}
+.navbar .ab {
+  margin-right: 10px;
+}
+.profileimg {
+  text-align: center;
+}
+.profileimg img {
+  margin-top: 20px;
+  height: 300px;
+  border-radius: 20px;
+}
+.quote {
+  text-align: center;
+}
+.content {
+  background-color: #fff;
+}
+.education {
+  margin-top: 10px;
+}
+.education ul {
+  margin-top: 5px;
+}
+.skill {
+  margin-top: 10px;
+}
+.skill ul {
+  margin-top: 5px;
+}
+.achivements {
+  margin-top: 10px;
+}
+.achivements img {
+  height: 300px;
+  margin-top: 10px;
+}
+footer {
+  text-align: center;
+}
